@@ -1,4 +1,4 @@
-# Cross-Consistent Deep Unfolding Network for Dynamic All-In-One Video Restoration(in submission)
+# Degradation Conditions Guided Cross-Consistent Deep Unfolding Network for All-In-One Video Restoration(in submission)
 Official PyTorch implementation of Cross-Consistent Deep Unfolding Network for Dynamic All-In-One Video Restoration
 > The complete code will be open source in this repository.
 ## Requirements
